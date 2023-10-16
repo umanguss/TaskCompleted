@@ -59,7 +59,7 @@ fun TaskCompletedScreen() {
             fontWeight = FontWeight.Bold
         )
         Text(
-            text = stringResource(R.string.nice_work),
+            text = stringResource(R.string.nice_work),   //string resource
             fontSize = 16.sp
         )
     }
